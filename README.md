@@ -21,7 +21,7 @@ root@thasni:~$ status
 ▶ Actively seeking opportunities
 
 root@thasni:~$ location
-▶ Umm Al Quwain, United Arab Emirates
+▶ United Arab Emirates
 
 root@thasni:~$ education
 ▶ BSc (Hons) Computer Science — First Class Honours
@@ -69,7 +69,7 @@ root@thasni:~$ motto
 
 | Degree | Institution | Period | Classification |
 |---|---|---|---|
-| BSc (Hons) Computer Science | University of West London, RAK Campus | Oct 2022 – May 2026 | **First-Class Honours** |
+| BSc (Hons) Computer Science | University of West London, RAK Campus | Oct 2023 – May 2026 | **First-Class Honours** |
 
 **Key Modules:** Databases & Analytics (SQL/R/Python) · Cybersecurity · AI Concepts & Machine Learning · Data Communications (Cisco/Subnetting) · Applied Software Engineering · Human-Centered Computing
 
@@ -95,8 +95,6 @@ root@thasni:~$ motto
 | Artificial Intelligence | Samsung Innovation Campus |
 | GenAI Powered Data Analytics Job Simulation | Tata (Forage) |
 | Data Analytics and Visualization Job Simulation | Accenture North America (Forage) |
-| Diploma in IT Support and Security | Alison *(in progress)* |
-| CompTIA A+ | *(planned)* |
 
 ---
 
