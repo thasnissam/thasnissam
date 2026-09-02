@@ -1,150 +1,109 @@
-# 🌷 Hi, I'm Fathima Thasni!
+<div align="center">
 
-### 💻 Computer Science Graduate · 📊 Data · 🤖 AI · ☁️ Technology
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,15&height=180&section=header&text=FATHIMA%20THASNI&fontSize=38&fontColor=fff&animation=twinkling&fontAlignY=32&desc=IT%20SUPPORT%20%7C%20SYSTEMS%20%7C%20DATA%20ANALYST&descAlignY=52&descSize=16" />
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-💜-blueviolet?style=for-the-badge">
-  <img src="https://img.shields.io/badge/SQL-💙-blue?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Power%20BI-💛-yellow?style=for-the-badge">
-  <img src="https://img.shields.io/badge/AI-💗-ff69b4?style=for-the-badge">
-</p>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=6A6BFF&center=true&vCenter=true&width=650&lines=IT+SUPPORT+%2B+SYSTEMS+ADMINISTRATION;DATA+%2F+BUSINESS+ANALYSIS;First-Class+Honours+CS+Graduate" alt="Typing SVG" />
 
-<p align="center">
-  <i>turning ideas → data → insights → solutions ✨</i>
-</p>
+<a href="https://thasnissam.github.io/thasni-portfolio"><img src="https://img.shields.io/badge/Portfolio-Visit-6A6BFF?style=flat-square&logo=google-chrome&logoColor=white"></a>
+<img src="https://img.shields.io/badge/Location-UAE-CD5700?style=flat-square&logo=googlemaps&logoColor=white">
+
+</div>
 
 ---
 
-## 🌸 About Me
+## 👋 About Me
 
-🎓 **BSc (Hons) Computer Science Graduate**
+```
+root@thasni:~$ whoami
+▶ Fathima Thasni
 
-I'm a curious Computer Science graduate interested in **Data Analytics, Artificial Intelligence and IT**.
+root@thasni:~$ status
+▶ Actively seeking opportunities
 
-I enjoy working with data, building practical applications, exploring AI technologies, and turning ideas into useful solutions.
+root@thasni:~$ location
+▶ Umm Al Quwain, United Arab Emirates
 
-📍 UAE
-💼 Open to opportunities
-🌱 Always learning something new
+root@thasni:~$ education
+▶ BSc (Hons) Computer Science — First Class Honours
 
----
+root@thasni:~$ target_roles
+▶ System Administrator → Data Analyst → Business Analyst
 
-## 🎨 My Tech Palette
+root@thasni:~$ long_term_goal
+▶ Cybersecurity
 
-### 🐍 Programming
-
-`Python` `Java` `JavaScript` `HTML` `CSS`
-
-### 📊 Data & Analytics
-
-`SQL` `MySQL` `Pandas` `NumPy` `Power BI` `Excel`
-
-### 🤖 AI & Machine Learning
-
-`Scikit-learn` `Machine Learning` `RAG` `Ollama`
-
-### 🛠️ Development & Tools
-
-`React` `FastAPI` `Streamlit` `Git` `GitHub` `Docker`
+root@thasni:~$ motto
+▶ "Support the system. Read the data. Solve the problem."
+```
 
 ---
 
-## ✨ Featured Projects
+## 🧰 Toolkit
 
-<table>
-<tr>
-<td width="50%">
+![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Active Directory](https://img.shields.io/badge/Active_Directory-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![Microsoft 365](https://img.shields.io/badge/Microsoft_365-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white)
+![Networking](https://img.shields.io/badge/Networking-Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 
-### 🩺 Diabetes Prediction
-
-A machine learning system that predicts the likelihood of diabetes based on health-related attributes.
-
-**Tech:**
-🐍 Python · 📊 Pandas · 🤖 Scikit-learn · 🎈 Streamlit
-
-</td>
-
-<td width="50%">
-
-### 📊 NorthStar Analytics
-
-An end-to-end data analytics project exploring business data and transforming it into meaningful insights.
-
-**Tech:**
-🐍 Python · 🗄️ SQL · 🍃 MongoDB · 📈 Power BI
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 🧠 NoteMind AI
-
-An AI-powered knowledge organizer using semantic search and RAG to interact with notes and documents.
-
-**Tech:**
-⚛️ React · ⚡ FastAPI · 🤖 Ollama · 🟣 ChromaDB
-
-</td>
-
-<td width="50%">
-
-### 🏥 Hospital Management
-
-A management system designed to organize hospital-related information and workflows.
-
-**Tech:**
-🐍 Python · 🌐 Django · 🗄️ Database
-
-</td>
-</tr>
-</table>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
 ---
 
-## 🌱 Currently Learning
+## 💼 Experience
 
-🌸 **Advanced SQL**
+**Administrative Assistant — Al Dana Electromechanical Contg LLC** | *Jan – Jul 2026 | Dubai, UAE*
+- Managed documentation, timesheets, BOQ, and VAT data entry
+- Built and maintained Excel-based reporting for project tracking
 
-💜 **Power BI & Data Visualization**
-
-💙 **Machine Learning**
-
-💗 **AI Solutions Architecture**
-
-🌿 **Cloud & IT Infrastructure**
+**Data Analyst Intern — KultureHire (Remote)** | *Aug – Sep 2024*
+- Supported data analysis tasks as part of a remote internship engagement
 
 ---
 
-## 📊 GitHub Journey
+## 🎓 Education
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" />
-</p>
+| Degree | Institution | Period | Classification |
+|---|---|---|---|
+| BSc (Hons) Computer Science | University of West London, RAK Campus | Oct 2022 – May 2026 | **First-Class Honours** |
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" />
-</p>
+**Key Modules:** Databases & Analytics (SQL/R/Python) · Cybersecurity · AI Concepts & Machine Learning · Data Communications (Cisco/Subnetting) · Applied Software Engineering · Human-Centered Computing
 
 ---
 
-## 🌈 Let's Connect
+## 🚀 Featured Projects
 
-<p align="center">
-
-💼 **LinkedIn**   •  
-🌐 **Portfolio**   •  
-📧 **Email**
-
-</p>
+- **NoteMind AI** — RAG-based personal knowledge management system (FastAPI, React, ChromaDB, MiniLM embeddings, Gemini API) with a two-threshold confidence system for answer reliability
+- **Northstar Data Analytics** — SQL/R/Python/MongoDB project on query optimization and analytics pipelines
+- **Dubai Tourism Demand Dashboard** — Power BI dashboard visualizing tourism demand trends
+- **Diabetes Prediction System** — Python/ML classification model
+- **Hospital Management System** — Database-driven management application
 
 ---
 
-<p align="center">
-  🌷 <i>learning · building · growing</i> 🌷
-</p>
+## 📜 Certifications
 
-<p align="center">
-  <sub>made with curiosity, creativity & a little ☕</sub>
-</p>
+| Certification | Issuer |
+|---|---|
+| Certified in Cybersecurity (CC) | ISC2 |
+| Cybersecurity Certification | Microsoft |
+| IoT & Digital Transformation | Cisco Networking Academy |
+| Artificial Intelligence | Samsung Innovation Campus |
+| GenAI Powered Data Analytics Job Simulation | Tata (Forage) |
+| Data Analytics and Visualization Job Simulation | Accenture North America (Forage) |
+| Diploma in IT Support and Security | Alison *(in progress)* |
+| CompTIA A+ | *(planned)* |
+
+---
+
+## 📫 Connect
+
+<a href="https://thasnissam.github.io/thasni-portfolio"><img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,15&height=100&section=footer" />
+
+</div>
