@@ -1,16 +1,43 @@
-## Hi there 👋
+👋 Hi, I'm Fathima Thasni
 
-<!--
-**thasnissam/thasnissam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science Graduate | Data Analytics | IT Support | AI
 
-Here are some ideas to get you started:
+📍 UAE
+🎓 BSc (Hons) Computer Science
+💼 Open to opportunities in Data Analytics, IT & AI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🛠️ TECH STACK
+
+Python • SQL • Power BI • Excel
+Java • JavaScript • HTML • CSS
+Git • GitHub • Docker
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📊 FEATURED PROJECTS
+
+🩺 Diabetes Prediction System
+Machine learning project for predicting diabetes risk.
+
+📈 NorthStar Data Analytics
+Data analysis project using Python, SQL, MongoDB and Power BI.
+
+🧠 NoteMind AI
+AI-powered personal knowledge management system.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📜 CERTIFICATIONS
+
+• ISC2 Certified in Cybersecurity
+• Microsoft Career Essentials in Cybersecurity
+• Samsung Innovation Campus – AI
+• Cisco IoT & Digital Transformation
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📫 CONNECT WITH ME
+
+LinkedIn | Email | Portfolio
