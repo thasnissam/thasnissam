@@ -1,43 +1,101 @@
-👋 Hi, I'm Fathima Thasni
+# `fathima-thasni`
 
-Computer Science Graduate | Data Analytics | IT Support | AI
+### computer science graduate · data · ai · technology
 
-📍 UAE
-🎓 BSc (Hons) Computer Science
-💼 Open to opportunities in Data Analytics, IT & AI
+> building things, analysing data, and learning something new every day. ♡
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+📍 UAE   ·   🎓 Computer Science   ·   💻 Open to opportunities
 
-🛠️ TECH STACK
+---
 
-Python • SQL • Power BI • Excel
-Java • JavaScript • HTML • CSS
-Git • GitHub • Docker
+### ✦ about me
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+I'm a Computer Science graduate interested in **Data Analytics, AI, and IT**.
 
-📊 FEATURED PROJECTS
+I enjoy turning messy data into meaningful insights, building practical applications, and exploring how AI can be used to solve real-world problems.
 
-🩺 Diabetes Prediction System
-Machine learning project for predicting diabetes risk.
+Currently exploring:
 
-📈 NorthStar Data Analytics
-Data analysis project using Python, SQL, MongoDB and Power BI.
+`Data Analytics` · `Python` · `SQL` · `Power BI` · `AI/ML` · `IT`
 
-🧠 NoteMind AI
-AI-powered personal knowledge management system.
+---
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+### ⌁ things i work with
 
-📜 CERTIFICATIONS
+**languages**
 
-• ISC2 Certified in Cybersecurity
-• Microsoft Career Essentials in Cybersecurity
-• Samsung Innovation Campus – AI
-• Cisco IoT & Digital Transformation
+`Python` `Java` `SQL` `JavaScript` `HTML` `CSS`
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+**data & analytics**
 
-📫 CONNECT WITH ME
+`Pandas` `NumPy` `Power BI` `Excel` `MySQL`
 
-LinkedIn | Email | Portfolio
+**ai & development**
+
+`Scikit-learn` `Streamlit` `React` `FastAPI` `Git`
+
+---
+
+### ✧ selected projects
+
+**01 · 🩺 Diabetes Prediction System**
+
+Machine learning classification system that predicts the likelihood of diabetes based on health-related attributes.
+
+`Python` `Pandas` `Scikit-learn` `Streamlit`
+
+→ [view project]
+
+---
+
+**02 · 📊 NorthStar Data Analytics**
+
+End-to-end analytics project involving data cleaning, exploration, database analysis and interactive business dashboards.
+
+`Python` `SQL` `MongoDB` `Power BI`
+
+→ [view project]
+
+---
+
+**03 · 🧠 NoteMind AI**
+
+An AI-powered personal knowledge organizer designed for storing, searching and interacting with notes and documents using semantic search and RAG.
+
+`React` `FastAPI` `Ollama` `ChromaDB`
+
+→ [view project]
+
+---
+
+### ✿ currently learning
+
+```text
+01  Advanced SQL
+02  Power BI & Data Visualization
+03  Machine Learning
+04  AI Solutions Architecture
+05  Cloud & IT Infrastructure
+```
+
+---
+
+### ☁️ a little more about me
+
+* 🎓 BSc (Hons) Computer Science
+* 📊 interested in turning data into decisions
+* 🤖 curious about practical AI applications
+* 💻 enjoy building small projects and experimenting
+* 🌱 always learning
+
+---
+
+### ♡ let's connect
+
+**LinkedIn** · **Portfolio** · **Email**
+
+> *"always learning. always building."*
+
+---
+
+<sub>made with curiosity & a little bit of ☕</sub>
