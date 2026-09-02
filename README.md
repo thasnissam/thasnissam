@@ -1,101 +1,150 @@
-# `fathima-thasni`
+# 🌷 Hi, I'm Fathima Thasni!
 
-### computer science graduate · data · ai · technology
+### 💻 Computer Science Graduate · 📊 Data · 🤖 AI · ☁️ Technology
 
-> building things, analysing data, and learning something new every day. ♡
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-💜-blueviolet?style=for-the-badge">
+  <img src="https://img.shields.io/badge/SQL-💙-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Power%20BI-💛-yellow?style=for-the-badge">
+  <img src="https://img.shields.io/badge/AI-💗-ff69b4?style=for-the-badge">
+</p>
 
-📍 UAE   ·   🎓 Computer Science   ·   💻 Open to opportunities
-
----
-
-### ✦ about me
-
-I'm a Computer Science graduate interested in **Data Analytics, AI, and IT**.
-
-I enjoy turning messy data into meaningful insights, building practical applications, and exploring how AI can be used to solve real-world problems.
-
-Currently exploring:
-
-`Data Analytics` · `Python` · `SQL` · `Power BI` · `AI/ML` · `IT`
+<p align="center">
+  <i>turning ideas → data → insights → solutions ✨</i>
+</p>
 
 ---
 
-### ⌁ things i work with
+## 🌸 About Me
 
-**languages**
+🎓 **BSc (Hons) Computer Science Graduate**
 
-`Python` `Java` `SQL` `JavaScript` `HTML` `CSS`
+I'm a curious Computer Science graduate interested in **Data Analytics, Artificial Intelligence and IT**.
 
-**data & analytics**
+I enjoy working with data, building practical applications, exploring AI technologies, and turning ideas into useful solutions.
 
-`Pandas` `NumPy` `Power BI` `Excel` `MySQL`
-
-**ai & development**
-
-`Scikit-learn` `Streamlit` `React` `FastAPI` `Git`
+📍 UAE
+💼 Open to opportunities
+🌱 Always learning something new
 
 ---
 
-### ✧ selected projects
+## 🎨 My Tech Palette
 
-**01 · 🩺 Diabetes Prediction System**
+### 🐍 Programming
 
-Machine learning classification system that predicts the likelihood of diabetes based on health-related attributes.
+`Python` `Java` `JavaScript` `HTML` `CSS`
 
-`Python` `Pandas` `Scikit-learn` `Streamlit`
+### 📊 Data & Analytics
 
-→ [view project]
+`SQL` `MySQL` `Pandas` `NumPy` `Power BI` `Excel`
 
----
+### 🤖 AI & Machine Learning
 
-**02 · 📊 NorthStar Data Analytics**
+`Scikit-learn` `Machine Learning` `RAG` `Ollama`
 
-End-to-end analytics project involving data cleaning, exploration, database analysis and interactive business dashboards.
+### 🛠️ Development & Tools
 
-`Python` `SQL` `MongoDB` `Power BI`
-
-→ [view project]
+`React` `FastAPI` `Streamlit` `Git` `GitHub` `Docker`
 
 ---
 
-**03 · 🧠 NoteMind AI**
+## ✨ Featured Projects
 
-An AI-powered personal knowledge organizer designed for storing, searching and interacting with notes and documents using semantic search and RAG.
+<table>
+<tr>
+<td width="50%">
 
-`React` `FastAPI` `Ollama` `ChromaDB`
+### 🩺 Diabetes Prediction
 
-→ [view project]
+A machine learning system that predicts the likelihood of diabetes based on health-related attributes.
+
+**Tech:**
+🐍 Python · 📊 Pandas · 🤖 Scikit-learn · 🎈 Streamlit
+
+</td>
+
+<td width="50%">
+
+### 📊 NorthStar Analytics
+
+An end-to-end data analytics project exploring business data and transforming it into meaningful insights.
+
+**Tech:**
+🐍 Python · 🗄️ SQL · 🍃 MongoDB · 📈 Power BI
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🧠 NoteMind AI
+
+An AI-powered knowledge organizer using semantic search and RAG to interact with notes and documents.
+
+**Tech:**
+⚛️ React · ⚡ FastAPI · 🤖 Ollama · 🟣 ChromaDB
+
+</td>
+
+<td width="50%">
+
+### 🏥 Hospital Management
+
+A management system designed to organize hospital-related information and workflows.
+
+**Tech:**
+🐍 Python · 🌐 Django · 🗄️ Database
+
+</td>
+</tr>
+</table>
 
 ---
 
-### ✿ currently learning
+## 🌱 Currently Learning
 
-```text
-01  Advanced SQL
-02  Power BI & Data Visualization
-03  Machine Learning
-04  AI Solutions Architecture
-05  Cloud & IT Infrastructure
-```
+🌸 **Advanced SQL**
 
----
+💜 **Power BI & Data Visualization**
 
-### ☁️ a little more about me
+💙 **Machine Learning**
 
-* 🎓 BSc (Hons) Computer Science
-* 📊 interested in turning data into decisions
-* 🤖 curious about practical AI applications
-* 💻 enjoy building small projects and experimenting
-* 🌱 always learning
+💗 **AI Solutions Architecture**
+
+🌿 **Cloud & IT Infrastructure**
 
 ---
 
-### ♡ let's connect
+## 📊 GitHub Journey
 
-**LinkedIn** · **Portfolio** · **Email**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" />
+</p>
 
-> *"always learning. always building."*
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" />
+</p>
 
 ---
 
-<sub>made with curiosity & a little bit of ☕</sub>
+## 🌈 Let's Connect
+
+<p align="center">
+
+💼 **LinkedIn**   •  
+🌐 **Portfolio**   •  
+📧 **Email**
+
+</p>
+
+---
+
+<p align="center">
+  🌷 <i>learning · building · growing</i> 🌷
+</p>
+
+<p align="center">
+  <sub>made with curiosity, creativity & a little ☕</sub>
+</p>
