@@ -1,60 +1,336 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,15&height=220&section=header&text=FATHIMA%20THASNI&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=IT%20SUPPORT%20ADMINISTRATOR%20%7C%20DATA%20%26%20SYSTEMS%20ANALYST&descAlignY=62&descSize=16" width="100%"/>
-</div>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=IT+SUPPORT+ADMINISTRATOR;SYSTEMS+%7C+DATA+%7C+BUSINESS+ANALYSIS;ACTIVE+DIRECTORY+%7C+MICROSOFT+365+%7C+SQL;BSc+COMPUTER+SCIENCE+%7C+FIRST+CLASS+HONOURS" alt="Typing SVG"/>
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:00C9FF,100:7F5AF0&height=200&section=header&text=Fathima%20Thasni&fontSize=46&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20Graduate%20%7C%20Data%20%7C%20AI%20%7C%20IT&descAlignY=60&descSize=18"/>
 
-<br/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=21&duration=3000&pause=900&color=6C63FF&center=true&vCenter=true&width=800&lines=Computer+Science+Graduate;Data+Analytics+%7C+Artificial+Intelligence;IT+Support+%7C+Systems+Administration;Building+Practical+Technology+Solutions;Turning+Data+Into+Insights;Always+Learning+%26+Building"/>
 
-<div align="center">
+<br><br>
 
-<img src="https://komarev.com/ghpvc/?username=thasnissam&color=7B2D8B&style=flat-square&label=Profile+Views" />
+<a href="https://github.com/thasnissam">
+<img src="https://img.shields.io/badge/GitHub-thasnissam-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-<img src="https://img.shields.io/badge/Location-UMM%20AL%20QUWAIN%2C%20UAE-CD5700?style=flat-square&logo=googlemaps&logoColor=white" />
+<a href="https://www.linkedin.com/in/fathima-thasni/">
+<img src="https://img.shields.io/badge/LinkedIn-Fathima%20Thasni-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-<a href="https://thasnissam.github.io/thasni-portfolio">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-786f53?style=flat-square&logo=google-chrome&logoColor=white"/>
+<a href="https://thasnissam.github.io/Fathima-Thasni/">
+<img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
 </div>
 
+<br>
+
 ---
 
-## 👾 About Me
+## About Me
 
 <table>
 <tr>
-<td width="60%" valign="top">
 
-```bash
-root@thasni:~$ whoami
-▶ Fathima Thasni
+<td width="58%" valign="top">
 
-root@thasni:~$ active_status
-▶ Actively Seeking Opportunities
+I'm a **Computer Science graduate** with an interest in building practical technology solutions across **Data Analytics, Artificial Intelligence, IT Support, Systems Administration and Cybersecurity**.
 
-root@thasni:~$ location
-▶ United Arab Emirates
+I enjoy working with data, solving technical problems, developing applications and continuously exploring new technologies.
 
-root@thasni:~$ education
-▶ BSc (Hons) Computer Science (First Class Honours)
+My approach is simple:
 
-root@thasni:~$ target_role
-▶ System Administrator → Data Analyst → Business Analyst
+> **Learn → Build → Analyse → Improve**
 
-root@thasni:~$ career_path
-▶ IT Support | Systems Admin | Data Analytics | Cybersecurity
+I'm particularly interested in opportunities where I can combine **technical knowledge, analytical thinking and problem-solving** to create useful solutions.
 
-root@thasni:~$ motto
-▶ "Support the system. Read the data. Solve the problem."
-```
+### Current Focus
+
+- Data Analytics & Business Intelligence
+- Python & SQL
+- Power BI & Excel
+- Artificial Intelligence & Machine Learning
+- IT Support & Systems Administration
+- Networking & Troubleshooting
+- Cybersecurity Fundamentals
+- Practical software development
 
 </td>
-<td width="40%" valign="top" align="center">
 
-<img width="100%" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+<td width="42%" align="center">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="390" alt="Coding Animation"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-6C63FF?style=flat-square"/>
+<br>
+<img src="https://img.shields.io/badge/Location-UAE-00C9FF?style=flat-square"/>
+<br>
+<img src="https://img.shields.io/badge/Focus-Data%20%7C%20AI%20%7C%20IT-7F5AF0?style=flat-square"/>
+
+</td>
+
+</tr>
+</table>
+
+---
+
+## Tech Stack
+
+### Programming & Development
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=python,java,javascript,html,css,react,nodejs,django"/>
+
+</p>
+
+### Data & Analytics
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
+
+</p>
+
+<p>
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white"/>
+
+</p>
+
+### AI & Machine Learning
+
+`Machine Learning` `Predictive Analytics` `Data Preprocessing` `Model Evaluation` `Generative AI` `RAG` `LLM Applications`
+
+### Tools & Platforms
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,androidstudio"/>
+
+</p>
+
+`Google Colab` `MySQL Workbench` `Streamlit` `Cisco Packet Tracer` `Ollama`
+
+---
+
+## Experience
+
+## Experience
+
+<details>
+<summary><strong>Administrative Assistant</strong> · Al Dana Electromechanical Contg LLC · Dubai, UAE · Jan 2026 – Jul 2026</summary>
+
+<br>
+
+**Responsibilities**
+
+* Managed project and administrative documentation
+* Maintained employee timesheets and attendance records
+* Prepared and organized BOQ documentation
+* Assisted with VAT-related data entry and record maintenance
+* Created and maintained Excel-based reports
+* Supported project and financial tracking
+* Coordinated administrative workflows across departments
+
+</details>
+
+<br>
+
+<details>
+<summary><strong>Data Analyst Intern</strong> · KultureHire · Remote · Aug 2024 – Sep 2024</summary>
+
+<br>
+
+**Responsibilities**
+
+* Worked with datasets using Python and SQL
+* Performed data cleaning and exploratory analysis
+* Used MySQL for querying and analysing structured data
+* Created reports and dashboards using Power BI and Excel
+* Identified trends and patterns from business data
+* Supported data-driven reporting and analysis
+
+</details>
+
+
+## Featured Projects
+
+### Diabetes Prediction System
+
+A machine learning application designed to predict the likelihood of diabetes based on health-related input features.
+
+**Technologies**
+
+`Python` `Pandas` `NumPy` `Scikit-Learn` `Streamlit` `Google Colab`
+
+**Key Areas**
+
+- Data preprocessing
+- Exploratory data analysis
+- Machine learning model development
+- Model evaluation
+- Interactive prediction interface
+
+<a href="https://github.com/thasnissam/diabetics-prediction-system">
+<img src="https://img.shields.io/badge/View%20Project-6C63FF?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+---
+
+### NoteMind AI
+
+An AI-powered personal knowledge organizer designed for managing notes and documents using semantic search and AI-powered retrieval.
+
+**Technologies**
+
+`React` `Vite` `Tailwind CSS` `FastAPI` `Ollama` `ChromaDB`
+
+**Key Areas**
+
+- AI-powered knowledge management
+- Semantic search
+- Retrieval-Augmented Generation
+- Local LLM integration
+- Vector database
+- Full-stack application development
+
+<a href="https://github.com/thasnissam/notemind_ai">
+<img src="https://img.shields.io/badge/View%20Project-6C63FF?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+---
+
+### NorthStar Data Analytics Project
+
+An end-to-end data analytics project focused on transforming operational datasets into meaningful business insights.
+
+**Technologies**
+
+`Python` `Pandas` `NumPy` `MongoDB` `Power BI`
+
+**Key Areas**
+
+- Data cleaning
+- Data transformation
+- Exploratory analysis
+- Database management
+- Business analytics
+- Data visualization
+
+<a href="https://github.com/thasnissam/NorthStar_Data_Analytics_Project">
+<img src="https://img.shields.io/badge/View%20Project-6C63FF?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+---
+
+### Hospital Management System
+
+A web-based hospital management system developed to manage healthcare-related information and operations.
+
+**Technologies**
+
+`Python` `Django` `HTML` `CSS` `Database Management`
+
+<a href="https://github.com/thasnissam/hospital-management-system">
+<img src="https://img.shields.io/badge/View%20Project-6C63FF?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+---
+
+### Salad Builder Mobile App
+
+An Android application developed as a mobile food customization solution.
+
+**Technologies**
+
+`Java` `Android Studio`
+
+<a href="https://github.com/thasnissam/Salad-Builder--Mobile-App">
+<img src="https://img.shields.io/badge/View%20Project-6C63FF?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+---
+
+## Certifications & Professional Learning
+
+| Certification / Learning | Provider |
+|---|---|
+| Certified in Cybersecurity (CC) | ISC2 |
+| Microsoft Career Essentials in Cybersecurity | Microsoft |
+| Cybersecurity Awareness | Microsoft |
+| Artificial Intelligence | Samsung Innovation Campus |
+| IoT & Digital Transformation | Cisco Networking Academy |
+| GenAI Powered Data Analytics Job Simulation | Tata / Forage |
+| Data Analytics & Visualization Job Simulation | Accenture / Forage |
+
+---
+
+## Education
+
+### BSc (Hons) Computer Science
+
+**University of West London — RAK Campus**
+
+`2023 – 2026`
+
+Relevant areas of study:
+
+`Programming & Algorithms`  
+`Databases & Information Systems`  
+`Artificial Intelligence`  
+`Machine Learning`  
+`Cybersecurity`  
+`Data Communications & Networking`  
+`Applied Software Engineering`  
+`Human-Centered Computing`
+
+---
+
+## Currently Exploring
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### Data Analytics
+
+- Advanced Excel
+- SQL
+- Power BI
+- Python
+- Data Cleaning
+- Data Visualization
+- Business Intelligence
+
+</td>
+
+<td width="33%" valign="top">
+
+### Artificial Intelligence
+
+- Machine Learning
+- Generative AI
+- RAG
+- LLM Applications
+- Vector Databases
+- AI Solutions
+
+</td>
+
+<td width="33%" valign="top">
+
+### IT & Security
+
+- IT Support
+- System Administration
+- Networking
+- Troubleshooting
+- Cybersecurity
+- Security Fundamentals
 
 </td>
 </tr>
@@ -62,115 +338,54 @@ root@thasni:~$ motto
 
 ---
 
-## Professional Toolkit
-<br/>
-<div align="center">
+## GitHub Statistics
 
-  <!-- Core Platforms -->
-  <img src="https://skillicons.dev/icons?i=windows,linux" alt="Core Platforms" />
-  <!-- Tools -->
-  <img src="https://skillicons.dev/icons?i=github,vscode" alt="Tools" />
-  <!-- Cloud -->
-  <img src="https://skillicons.dev/icons?i=azure" alt="Cloud" />
-  <!-- Programming & Data -->
-  <img src="https://skillicons.dev/icons?i=py,mysql,r,html,css" alt="Programming & Data" />
-  <br/><br/>
+<p align="center">
 
-<!-- IT Support / Sysadmin -->
-<img src="https://img.shields.io/badge/Active_Directory-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />&nbsp;
-<img src="https://img.shields.io/badge/Microsoft_365-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white" />&nbsp;
-<img src="https://img.shields.io/badge/Windows_Server-0078D4?style=for-the-badge&logo=windows&logoColor=white" />&nbsp;
-<img src="https://img.shields.io/badge/Networking-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />&nbsp;
-<img src="https://img.shields.io/badge/Endpoint_Support-8B0000?style=for-the-badge&logoColor=white" />&nbsp;
-<br>
-<!-- Data & Analysis -->
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />&nbsp;
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />&nbsp;
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />&nbsp;
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />&nbsp;
-<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />&nbsp;
+<img src="https://github-readme-stats.vercel.app/api?username=thasnissam&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&rank_icon=github" height="175"/>
 
-</div>
+<img src="https://streak-stats.demolab.com/?user=thasnissam&theme=tokyonight&hide_border=true&border_radius=12" height="175"/>
+
+</p>
 
 ---
 
-## Work Experience
+## Contribution Activity
 
-<details>
-<summary><strong>Al Dana Electromechanical Contg LLC</strong> — Administrative Assistant | Jan 2026 – Jul 2026 | Dubai, UAE</summary>
+<p align="center">
 
-> ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=windows&logoColor=white) ![Data Entry](https://img.shields.io/badge/Data_Entry-white?style=flat-square)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=thasnissam&theme=tokyo-night&hide_border=true&radius=12&area=true" width="95%"/>
 
-- Managed documentation, timesheets, BOQ, and VAT data entry for ongoing projects.
-- Built and maintained Excel-based reports for project and financial tracking.
-- Coordinated administrative workflows across departments to support project delivery.
-</details>
-
-<details>
-<summary><strong>KultureHire</strong> — Data Analyst Intern (Remote) | Aug 2024 – Sep 2024</summary>
-
-> ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Data Analysis](https://img.shields.io/badge/Data_Analysis-white?style=flat-square)
-
-- Supported data analysis tasks as part of a remote internship engagement.
-</details>
-
----
-## GitHub Activity Matrix
-
-<div align="center">
-<br>
-<img src="https://github-readme-stats.vercel.app/api?username=thasnissam&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&cache_seconds=1800" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thasnissam&layout=compact&langs_count=8&hide=jupyter%20notebook&theme=tokyonight&hide_border=true&border_radius=10&cache_seconds=1800" height="165"/>
-
-</div>
+</p>
 
 ---
 
-## Achievements & Certifications
+## Connect With Me
 
-<div align="center">
+<p align="center">
 
-| Achievement | Details |
-|:------------|:--------|
-| **Certified in Cybersecurity (CC)** | ISC2 |
-| **Cybersecurity Certification** | Microsoft |
-| **IoT & Digital Transformation** | Cisco Networking Academy |
-| **Artificial Intelligence** | Samsung Innovation Campus |
-| **GenAI Powered Data Analytics Job Simulation** | Tata (Forage) |
-| **Data Analytics & Visualization Job Simulation** | Accenture North America (Forage) |
-| **Diploma in IT Support and Security** | Alison — *In Progress* |
-| **CompTIA A+** | *Planned* |
-
-</div>
-
----
-
-## Education
-<br/>
-<div align="center">
-
-| Degree | Institution | Period | Classification |
-|:-------|:------------|:-------|:---------------|
-| BSc (Hons) Computer Science | University of West London, RAK Campus | Oct 2022 – May 2026 | **First-Class Honours** |
-<br/>
-<p align="left"><b>Key Modules:</b> Databases & Analytics · Cybersecurity · Machine Learning · Data Communications (Cisco/Subnetting) · Applied Software Engineering · Human-Centered Computing</p>
-</div>
-
----
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Support_the_system-2b2b2b?style=for-the-badge&logo=gnubash&logoColor=39ff14" />
-<img src="https://img.shields.io/badge/Read_the_data-2b2b2b?style=for-the-badge&logo=gnubash&logoColor=39ff14" />
-<img src="https://img.shields.io/badge/Solve_the_problem-2b2b2b?style=for-the-badge&logo=gnubash&logoColor=39ff14" />
-<br><br>
-
-<a href="https://thasnissam.github.io/thasni-portfolio">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-08453f?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+<a href="https://github.com/thasnissam">
+<img src="https://img.shields.io/badge/GitHub-thasnissam-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
+<a href="https://www.linkedin.com/in/fathima-thasni/">
+<img src="https://img.shields.io/badge/LinkedIn-Fathima%20Thasni-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://thasnissam.github.io/Fathima-Thasni/">
+<img src="https://img.shields.io/badge/Portfolio-Visit%20Portfolio-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+</p>
+
+<br>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:00C9FF,100:7F5AF0&height=120&section=footer"/>
+
+### Data • AI • IT • Cybersecurity
+
+**Learn. Build. Analyse. Improve.**
+
 </div>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=4,7,14&height=180&section=footer&animation=twinkling" width="100%"/>
